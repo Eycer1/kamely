@@ -25,13 +25,15 @@ Caracteristicas Siguientes:
 - Manejo de cursos, asignando roles de profesor y alumno y entrega de notas
 - Permitir Video streaming para reuniones virtuales (Para cursos o grupos de estudio o social) y guardar grabaciones en la nube.
 - Permitir recepcion de ayudas humanitarias o caridad, su inventario, distribucion y transparencia absoluta.
-
+- Mapa de la universidad y permitir marcar puntos en la misma
+- Coordinar encuestas de cambio de horario de clases
 Filosofia de la App
 
 Haz algo por lo que te sientas orgulloso de ser recordado.
 
 Palabras del Autor
 
+# Miercoles 13 de Octubre del 2022
 Al momento de escribir este README (Miercoles, Octubre 13 del 2022) desconozco completamente el alcance que pueda tener esta aplicacion si es que llega a tener alguno. Solo soy un estudiante mas de esta universidad y ciertamente no soy el mejor estudiante *se seca una lagrimita*. 
 Y aunque suene egoista: mi intension es probarme, retarme a hacer algo que valga la pena recordar. Algo de lo que pueda sentirme orgulloso en el futuro.
 
